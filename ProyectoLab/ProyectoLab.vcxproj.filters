@@ -21,6 +21,9 @@
     <ClInclude Include="acciones.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ahorcado.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
@@ -33,6 +36,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="acciones.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ahorcado.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
